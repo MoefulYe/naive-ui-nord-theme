@@ -1,6 +1,6 @@
 {
   "common": {
-    "bodyColor": "#F2F4F8FF",
+    "bodyColor": "#fbfbfcFF",
     "borderRadiusSmall": "4px",
     "baseColor": "#F8F9FBFF",
     "primaryColor": "#434c5eFF",
@@ -115,11 +115,11 @@
     "color": "rgba(46, 52, 64, 1)"
   },
   "Layout": {
-    "headerColor": "#fbfbfcFF",
+    "headerColor": "#FFFFFFFF",
     "headerBorderColor": "rgba(216, 222, 233, 0.25)",
     "footerBorderColor": "rgba(216, 222, 233, 0.25)",
     "footerColor": "rgba(248, 249, 251, 1)",
-    "siderColor": "#fbfbfcFF",
+    "siderColor": "#FEFEFEFF",
     "siderBorderColor": "rgba(216, 222, 233, 0.25)"
   },
   "Scrollbar": {
