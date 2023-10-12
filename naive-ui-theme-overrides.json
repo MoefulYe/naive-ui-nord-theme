@@ -1,6 +1,6 @@
 {
   "common": {
-    "bodyColor": "#fbfbfcFF",
+    "bodyColor": "#FBFBFCFF",
     "borderRadiusSmall": "4px",
     "baseColor": "#F8F9FBFF",
     "primaryColor": "#434c5eFF",
@@ -41,13 +41,14 @@
     "closeIconColorHover": "rgba(102, 102, 102, 1)",
     "closeIconColorPressed": "rgba(102, 102, 102, 1)",
     "clearColor": "rgba(194, 194, 194, 1)",
-    "tableColor": "#fbfbfcFF",
-    "popoverColor": "#FBFBFCFF",
-    "cardColor": "#fbfbfcFF",
-    "modalColor": "#fbfbfcFF",
+    "tableColor": "#fff",
+    "popoverColor": "#fff",
+    "cardColor": "#fff",
+    "modalColor": "#fff",
     "tagColor": "#eceff4FF",
     "avatarColor": "rgba(229, 233, 240, 1)",
-    "codeColor": "rgba(251, 251, 252, 1)"
+    "codeColor": "rgba(251, 251, 252, 1)",
+    "tableHeaderColor": "rgba(236, 239, 244, 0.5)"
   },
   "Rate": {
     "itemColorActive": "#ebcb8bFF"
